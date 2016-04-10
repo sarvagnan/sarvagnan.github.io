@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yet another blog</title>
-    <description>Jack of all trades, master of none
+    <description>Jack of all trades, master of none. Working on that last part.
 </description>
     <link>http://sarvagnan.github.io/</link>
     <atom:link href="http://sarvagnan.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 Apr 2016 14:51:03 +0530</pubDate>
-    <lastBuildDate>Sun, 10 Apr 2016 14:51:03 +0530</lastBuildDate>
+    <pubDate>Sun, 10 Apr 2016 14:54:07 +0530</pubDate>
+    <lastBuildDate>Sun, 10 Apr 2016 14:54:07 +0530</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
